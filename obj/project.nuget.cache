@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkRNOUKxt0QSBjY/khHZUXH4STYN/nfU13t98VDaGTJ5bNpynru34w9qtjlJo4fOvmNm8R+UwjYSjNuxaiUerg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martins\\project\\TesteCargaSNS\\TesteCargaSNS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martins\\.nuget\\packages\\awssdk.core\\3.7.303.26\\awssdk.core.3.7.303.26.nupkg.sha512",
+    "C:\\Users\\martins\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.301.34\\awssdk.simplenotificationservice.3.7.301.34.nupkg.sha512"
+  ],
+  "logs": []
+}
