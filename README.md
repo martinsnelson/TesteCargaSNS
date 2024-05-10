@@ -8,12 +8,14 @@
 - Alternativa para envio de msg com até 2GB, consultar o link abaixo:
 https://docs.aws.amazon.com/sns/latest/dg/large-message-payloads.html
 
-# Tempo de leitura:
+# Tempo de leitura SQS:
 - 60 minutos, 1M msg.
 - 6 minutos, 100k msg.
 - 2 minutos, 10k msg. 
 - 1 minuto, 1k msg.
 
-# [TODOS Arquitetura]: ajustes, processamento em paralelo, lambda e C#.
-- Processar 10k msg em 30 segundos.
-- Processar 1M msg em 35m.
+# Tempo de publicação
+- 36m, 1M
+- 1m:29s, 100k msg
+- 2s:35ms, 10k msg
+- 1s:3ms, 1k msg
