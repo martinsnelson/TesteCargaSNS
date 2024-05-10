@@ -9,7 +9,7 @@
 https://docs.aws.amazon.com/sns/latest/dg/large-message-payloads.html
 
 # Tempo de leitura SQS:
-- 60 minutos, 1M msg.
+- 36 minutos, 1M msg.
 - 6 minutos, 100k msg.
 - 2 minutos, 10k msg. 
 - 1 minuto, 1k msg.
