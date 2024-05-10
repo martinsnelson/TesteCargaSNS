@@ -11,7 +11,7 @@ static async Task Run()
 
    
     // Defina o ARN do tópico do SNS
-    string TopicArn = "arn:aws:sns:sa-east-1:996771528411:MyTopicTesteCarga";
+    string TopicArn = "arn:aws:sns:sa-east-1:xxxx:xxxxxx";
 
     var snsClient = new AmazonSimpleNotificationServiceClient(Amazon.RegionEndpoint.SAEast1);
 
